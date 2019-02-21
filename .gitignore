@@ -1,0 +1,10 @@
+#servlet ignores
+.settings
+.project
+.tern-project
+.classpath
+build
+WebContent/META-INF/MANIFEST.MF
+WebContent/WEB-INF/*.xml
+WebContent/*.jsp
+
